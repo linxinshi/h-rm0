@@ -5,6 +5,7 @@ This repository contains resources developed within the following paper:
 
 ## requirements
 Python 3.4+
+
 Pytorch 1.2+
 
 This implementation works on both Windows and Linux. Tested on a AMD Radeon RX480 8GB(with ROCM platform installed) and a NVIDIA GTX 1080Ti.
