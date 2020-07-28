@@ -19,4 +19,4 @@ python main.py -train_data ../data/train.txt -val_data ../data/dev.txt -embed ..
 Beer-ware or Snack-ware License
 
 ## Acknowledgement
-This project is developed based on an existing github project https://github.com/thunlp/Kernel-Based-Neural-Ranking-Models.
+This project is based on an existing github project https://github.com/thunlp/Kernel-Based-Neural-Ranking-Models.
