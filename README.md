@@ -21,7 +21,7 @@ python main.py -train_data ../data/train.txt -val_data ../data/dev.txt -embed ..
 Beer-ware or Snack-ware License
 
 ## Contact
-Xinshi Lin (linxinshi1992@gmail.com)
+Xinshi Lin (xslin@se.cuhk.edu.hk)
 
 ## Acknowledgement
 This project is based on an existing github project https://github.com/thunlp/Kernel-Based-Neural-Ranking-Models.
