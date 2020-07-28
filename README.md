@@ -8,7 +8,9 @@ Python 3.4+
 
 Pytorch 1.2+
 
-This implementation works on both Windows and Linux. Tested on a AMD Radeon RX480 8GB(with ROCM platform installed) and a NVIDIA GTX 1080Ti.
+This implementation works on both Windows and Linux. 
+
+Tested on a AMD Radeon RX480 8GB(with ROCM platform installed) and a NVIDIA GTX 1080Ti.
 
 ## usage
 python main.py -train_data ../data/train.txt -val_data ../data/dev.txt -embed ../chkpt/embed.npy -task SRM -batch_size 64 -save_model best -vocab_size 315370
