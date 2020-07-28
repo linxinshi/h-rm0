@@ -15,8 +15,13 @@ Tested on a AMD Radeon RX480 8GB(with ROCM platform installed) and a NVIDIA GTX 
 ## usage
 python main.py -train_data ../data/train.txt -val_data ../data/dev.txt -embed ../chkpt/embed.npy -task SRM -batch_size 64 -save_model best -vocab_size 315370
 
+*since larger file cannot be uploaded freely in github, dev.txt/train.txt/embed.npy are currently unavailable in this repository. Please send mail to me or refer to [here](https://github.com/thunlp/Kernel-Based-Neural-Ranking-Models/tree/master/data)
+
 ## License
 Beer-ware or Snack-ware License
+
+## Contact
+Xinshi Lin (linxinshi1992@gmail.com)
 
 ## Acknowledgement
 This project is based on an existing github project https://github.com/thunlp/Kernel-Based-Neural-Ranking-Models.
